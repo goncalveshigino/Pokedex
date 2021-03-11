@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="content">
-                    <button class="button  is-primary is-focused is-medium is-fullwidth" @click="mudarSprite" >Mudar Sprite</button>
+                    <button class="button  is-primary is-rounded is-outlined is-medium " @click="mudarSprite" >Mudar Sprite</button>
                 </div>
             </div>
 
